@@ -7,7 +7,7 @@
 ### Un grabador de pantalla ligero for android
 
 <p>
-  <a href="https://github.com/ruru22222/Rur-uReplay-/releases/latest/download/Rur-uReplayv2.apk">
+  <a href="https://github.com/ruru22222/Rur-uReplay-/releases/latest/download/Rur-uReplay.apk">
     <img src="https://img.shields.io/badge/Download-APK-ff6f9c?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
   </a>
   <a href="https://github.com/ruru22222/Rur-uReplay-/releases">
@@ -59,10 +59,10 @@ La interfaz moderna utiliza un estilo de anime, aunque puede ser personalizada.
 
 ### APK más reciente
 
-[![Download APK](https://img.shields.io/badge/Download-latest%20APK-ff6f9c?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ruru22222/Rur-uReplay-/releases/latest/download/Rur-uReplayv2.apk)
+[![Download APK](https://img.shields.io/badge/Download-latest%20APK-ff6f9c?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ruru22222/Rur-uReplay-/releases/latest/download/Rur-uReplay.apk)
  
 ```text
-Rur-uReplayv2.apk
+Rur-uReplay.apk
 ```
 
 
