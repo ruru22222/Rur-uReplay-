@@ -1,8 +1,8 @@
 {
-  "version": "4.3.1",
-  "name": "Rur’uReplay 4.3.1",
+  "version": "4.3.2",
+  "name": "Rur’uReplay 4.3.2",
   "notes": [
-    "First public release"
+    "Newest ui minor redesigns"
   ],
   "apk": "Rur-uReplay.apk"
 }
