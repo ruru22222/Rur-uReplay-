@@ -1,8 +1,13 @@
 {
-  "version": "4.3.2",
-  "name": "Rur’uReplay 4.3.2",
+  "version": "5.0.0",
+  "name": "Rur’uReplay 5.0.0",
   "notes": [
-    "Newest ui minor redesigns"
+    "official plugins (still under development)",
+"Code rewritten for performance",
+    "new forensic branding system",
+    "Patched audio bugs",
+    "certain visual improvements",
+    "video and photo editor improvements"
   ],
   "apk": "Rur-uReplay.apk"
 }
